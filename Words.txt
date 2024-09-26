@@ -10,15 +10,15 @@ active attack [эктив этэк] - активная атака
 active cyberdefence (active cyber defence, ACD) [эктив сайбердефенс] - активная киберзащита
 antivirus (anti-virus) [антивайрус] - антивирус
 antivirus app (anti-virus app) {app - application} [антивайрус эп] - приложение антивируса
-antivirus personnel (anti-virus personnel) [антивайрус персонел] - персонал службы поддержки антивирусов
+antivirus personnel (antivirus support, anti-virus personnel) [антивайрус персонел] - персонал службы поддержки антивирусов
 antivirus policy (anti-virus policy) [антивайрус полиси] - антивирусная политика
 antivirus protection (anti-virus protection) [антивайрус протекшн] - антивирусная защита
-bacterium [бактериум] - бактерия, микроб
+bacterium [бактериум] - бактерия, микроб, тип компьютерного вируса
 bankcard fraud [банккард фрауд] - мошенничество с банковскими картами
 banker trojan [банкер троян] - банковский троян
-behavior [бихейвор] - поведение, в ИБ действия и операции, которые выполняет вредоносная программа в зараженной системе
-behavioral anomaly detection (BAD) [бихейворал аномали дэтэкшн] - технологии обнаружения зловредного ПО
-behaviour blocker (behavior blocker) [бихейвор блокер] - поведенческий блокиратор
+behaviour (behavior) [бихейвиа] - поведение, в ИБ действия и операции, которые выполняет вредоносная программа в зараженной системе
+behavioural anomaly detection (BAD) [бихейвиал анОмэли дэтэкшн] - технологии обнаружения зловредного ПО
+behaviour blocker (behavior blocker) [бихейвиа блокер] - поведенческий блокиратор
 benign environment [бенайн энвайромент] - благоприятная среда
 biometric data (biometrical data) [байометрик дэйта] - биометрические данные
 biometric identification [байометрик идентификэйшн] - биометрическая идентификация
