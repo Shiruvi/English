@@ -1,0 +1,60 @@
+Слова по английскому.
+- в скобках вариации одного и того же слова
+- найдете ошибки, пишите в issuses
+- в квадратных скобках произношение
+- в фигурных скобках этимология слова
+- большими буквами в транскрипции проставленны ударения
+- звездой обозначаются возможные неправильные строки (в релизе не должно быть звезд)
+
+active attack - активная атака
+active cyberdefence - активная киберзащита
+antivirus - антивирус
+antivirus app - приложение антивируса
+antivirus personnel - персонал службы поддержки антивирусов
+antivirus policy - антивирусная политика
+antivirus protection - антивирусная защита
+bacterium - бактерия, микроб, тип компьютерного вируса
+bankcard fraud - мошенничество с банковскими картами
+banker trojan - банковский троян
+behaviour - поведение, в ИБ действия и операции, которые выполняет вредоносная программа в зараженной системе
+behavioural anomaly detection - технологии обнаружения зловредного ПО
+behaviour blocker - поведенческий блокиратор
+benign environment - благоприятная среда
+biometric data - биометрические данные
+biometric identification - биометрическая идентификация
+black hat hacker - зловредный (черный) хакер
+blacklist - черный список
+blacklisting - технология "черных списков"
+blackmail - шантаж
+botnet - сеть зомбированных компьютеров
+bug bounty - премия за обнаружения уязвимости
+cyber attack - кибератака
+cyber attacker - кибервзломщик
+cyber conflict - киберконфликт
+cybercrime - киберпреступность, киберпреступления
+cybercriminal - киберпреступник
+cyberdefense - кибероборона
+cyber incident - киберинцидент
+cyberlaw - киберправо
+cyber operation - кибероперация
+cyder protection - киберзащита
+cyder resilience - устойчивасть к киберугрозам
+cyber risk - киберугроза, кибер риск
+cybersecurity - безопасность в киберпространстве
+cyder secutrity expert - эксперт по кибербезопасности
+cybersecurity adviser - советник по кибербезопасности
+cybersecurity analyst - аналитик по кибербезопасности
+cybersecurity application - приложение для кибербезопасности
+*cybersecurity buisness - бизнес в области кибербезопасности
+*cybersecurity certificate - сертификат специалиста по кибербезопасности
+*cybersecurity employer - работадатель для специалиста по кибербезопасности
+*cybersecurity hardening - повышение уровня ИБ
+cybersecurity hardening guide - руководство по повышению кибербезопасности
+cybersecurity incident - нарушение кибербезопасности
+cybersecurity market - рынок средств кибербезопасности
+*cybersecurity report - сообщение о нарушении кибербезопасности
+cybersecurity researcher - исследователь в области кибербезопасности
+cybersecurity solution - решение в области кибербезопасности
+cybersecurity spending - расходы на кибербезопасность
+cybersecurity strategy - стратегия обеспечения кибербезопасности
+*cybersecurity technology - технология кибербезопасности
