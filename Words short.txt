@@ -45,16 +45,16 @@ cyder secutrity expert - эксперт по кибербезопасности
 cybersecurity adviser - советник по кибербезопасности
 cybersecurity analyst - аналитик по кибербезопасности
 cybersecurity application - приложение для кибербезопасности
-*cybersecurity buisness - бизнес в области кибербезопасности
-*cybersecurity certificate - сертификат специалиста по кибербезопасности
-*cybersecurity employer - работадатель для специалиста по кибербезопасности
-*cybersecurity hardening - повышение уровня ИБ
+cybersecurity buisness - бизнес в области кибербезопасности
+cybersecurity certificate - сертификат специалиста по кибербезопасности
+cybersecurity employer - работадатель для специалиста по кибербезопасности
+cybersecurity hardening - повышение уровня ИБ
 cybersecurity hardening guide - руководство по повышению кибербезопасности
 cybersecurity incident - нарушение кибербезопасности
 cybersecurity market - рынок средств кибербезопасности
-*cybersecurity report - сообщение о нарушении кибербезопасности
+cybersecurity report - сообщение о нарушении кибербезопасности
 cybersecurity researcher - исследователь в области кибербезопасности
 cybersecurity solution - решение в области кибербезопасности
 cybersecurity spending - расходы на кибербезопасность
 cybersecurity strategy - стратегия обеспечения кибербезопасности
-*cybersecurity technology - технология кибербезопасности
+cybersecurity technology - технология кибербезопасности
