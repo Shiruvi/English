@@ -45,7 +45,7 @@ cyder secutrity expert - эксперт по кибербезопасности
 cybersecurity adviser - советник по кибербезопасности
 cybersecurity analyst - аналитик по кибербезопасности
 cybersecurity application - приложение для кибербезопасности
-cybersecurity buisness - бизнес в области кибербезопасности
+cybersecurity business - бизнес в области кибербезопасности
 cybersecurity certificate - сертификат специалиста по кибербезопасности
 cybersecurity employer - работадатель для специалиста по кибербезопасности
 cybersecurity hardening - повышение уровня ИБ
