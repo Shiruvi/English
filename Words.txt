@@ -7,7 +7,7 @@
 - звездой обозначаются возможные неправильные строки (в релизе не должно быть звезд)
 
 active attack [эктив этэк] - активная атака
-active cyberdefence (active cyber defence, ACD) [эктив сайбердефенс] - активная оборона
+active cyberdefence (active cyber defence, ACD) [эктив сайбердефенс] - активная кибероборона
 antivirus (anti-virus) [антивайрус] - антивирус
 antivirus app (anti-virus app) {app - application} [антивайрус эп] - приложение антивируса
 antivirus personnel (antivirus support, anti-virus personnel) [антивайрус персонел] - персонал службы поддержки антивирусов
