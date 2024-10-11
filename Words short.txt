@@ -58,3 +58,30 @@ cybersecurity solution - решение в области кибербезопа
 cybersecurity spending - расходы на кибербезопасность
 cybersecurity strategy - стратегия обеспечения кибербезопасности
 cybersecurity technology - технология кибербезопасности
+data breach - несанкционированный доступ к данным
+data leakege - утечка данных
+data privacy - конфиденциальность (приватность) данных
+data security - защита (защищенность, безопасность) данных
+defence in depth - многоуровневая защита
+destruction - уничтожение, разрушение
+disclone information - разглашать информацию
+disclosure - демаскирование, раскрытие, разглашение
+demilitarized zone (DMZ) - демилитаризованная зона
+downgrade (downgrading) - понижение уровня, так же понижение в звании, статусе, оценки
+Data Protection as a Service (DPaaS) - защита данных как услуга, сервис, модель обеспечения сохранности данных
+eavesdropping - перехват, прослушка, прослушивание
+eavesdropping attack - атака прослушиванием
+encrypted software - ПО с криптографической защитой
+enterprice security - корпоративная безопасность
+entrapment - подставка, ловушка
+evidence - доказательство, вещественное доказательство, также служить доказательством, доказать
+exculpatory evidence - доказательство невиновности
+external security testing - внешнее тестирование средств обеспечения средств безопасности
+false negative (FN) - ошибочный отказ, ложно отрицательная (аутентификация)
+false positive (FP) - ошибочный допуск, ложно положительная (аутентификация)
+file protection - защита файла
+file sandboxing - проверка файла в песочнице 
+file security - безопасность файлов
+Forum for Incident and Response Security Team (FIRST) - форум команд по ИБ и реакциям на инциденты ИБ
+foothold expansion - упрощение позиции атакующего (расширение плацдарма)
+fraud - обман, мошенничество
