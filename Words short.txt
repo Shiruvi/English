@@ -59,7 +59,7 @@ cybersecurity spending - расходы на кибербезопасность
 cybersecurity strategy - стратегия обеспечения кибербезопасности
 cybersecurity technology - технология кибербезопасности
 data breach - несанкционированный доступ к данным
-data leakege - утечка данных
+data leakage - утечка данных
 data privacy - конфиденциальность (приватность) данных
 data security - защита (защищенность, безопасность) данных
 defence in depth - многоуровневая защита
