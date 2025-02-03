@@ -98,11 +98,11 @@ hacking tool - инструмент для хакинга
 hardware security - аппаратная защита, защита "по железу". Защита обеспеченная какими-либо физическими инструментами
 hardware vulnerability - аппаратная уязвимость, уязвимость аппаратного обеспечения
 hardware weakness - аппаратная уязвимость (сисноним прошлого), "слабость" аппаратуры
-high impact (HI HIM HIMP) - сильзое воздействие, сильный эффект, высокая уязвимость, большой ущерб
+high impact (HI HIM HIMP) - сильное воздействие, сильный эффект, высокая уязвимость, большой ущерб
 high-impact system - система высокой уязвимости
 high-tech crime - высокотехнологическое преступление
 honeynet - сеть-приманка, сеть-ловушка
-honeypot - хост-приманка, сеть-ловушка
+honeypot - хост-приманка, хост-ловушка
 human factor (HE) - человеческий фактор , самое слобае звено в ИТ и ИБ
 hybrid security control - гибридный контроль безопасности
 identity, credential, and access management (ICAM) - системиа идентификации, электронных удоставерений и контроля доступа
@@ -111,14 +111,14 @@ impact - воздействие, влияние
 impact value - величина потенциального или реального ущерба
 impersonation - маскирофка нарушителя, маскровка вредоносного ПО под не вредоносное
 inadvertent disclosure - непреднамеренное раскрытие информации
-incident - инцедент, проеществие
-incident diary - дневник, журнал учета проеществий (инцедентов)
-incident handling - обработка проеществий
-incident management - контроль проеществий
-incident outsourcing - аутсорсинг инцедентов 
-incident prevention - предупреждение инцедентов
-incident reporting - отчет по инцедентов
-incident response - реакция на инцедент 
-incident response plan - план реагирования на инцеденты
-incident scope - масштаб инцедента
-incident solving - решение инцедента
+incident - инцидент, проеществие
+incident diary - дневник, журнал учета проеществий (инцидентов)
+incident handling - обработка происшествий
+incident management - контроль происшествий
+incident outsourcing - аутсорсинг инцидентов 
+incident prevention - предупреждение инцидентов
+incident reporting - отчет по инцидентов
+incident response - реакция на инцидент 
+incident response plan - план реагирования на инциденты
+incident scope - масштаб инцидента
+incident solving - решение инцидента
