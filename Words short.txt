@@ -122,3 +122,29 @@ incident response - реакция на инцидент
 incident response plan - план реагирования на инциденты
 incident scope - масштаб инцидента
 incident solving - решение инцидента
+intruder – взламыватель / неавторизованный пользователь пытающийся получить несанкционированный доступ 
+intruder detection – обнаружение нарушителей
+intrusion – вторжение / несанкционированное проникновение в систему в обход её защитных механизмов
+intrusion attempt – попытка проникновения в систему/сеть
+intrusion detection – обнаружение проникновения (вторжения)
+intrusion prevention – предотвращение вторжений
+intrusion prevention system (IPS) – система предотвращения вторжений
+intrusion sensor – датчик охранной сигнализации
+intrusion testing – тестирование системы на вторжение
+intrusion tool – средство вторжения, инструмент для проникновения
+IOC – indicator of compromise – признак компрометации, признак вторжения в систему
+IT-related risk –  ИТ-риск
+IT security architecture – архитектура обеспечения безопасности ИТ-систем
+IT security awareness – информирование по проблемам ИТ-безопасности
+IT security threat[s] – угроза (угрозы) безопасности ИТ-систем
+IT security training – обучение по ИТ-безопасности
+key management – управление криптографическими ключами
+labeled security protection – защита по меткам безопасности
+laboratory attack – лабораторная атака
+layered defense – эшелонированная оборона
+leakage – утечка данных, информации
+leakage channel – канал утечки данных
+least privilege (также least privilege principle, principle of least privilege, PoLP) – принцип минимума прав доступа
+logical perimeter – логический периметр 
+loss of data (также data loss) – потеря данных
+low-impact system – система невысокой  уязвимости
