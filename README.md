@@ -1,0 +1,177 @@
+Слова по английскому.
+- в скобках вариации одного и того же слова
+- найдете ошибки, пишите в issuses
+- в квадратных скобках произношение
+- в фигурных скобках этимология слова
+- большими буквами в транскрипции проставленны ударения
+- звездой обозначаются возможные неправильные строки (в релизе не должно быть звезд)
+
+active attack - активная атака
+active cyberdefence - активная кибероборона
+antivirus - антивирус
+antivirus app - приложение антивируса
+antivirus personnel - персонал службы поддержки антивирусов
+antivirus policy - антивирусная политика
+antivirus protection - антивирусная защита
+bacterium - бактерия, микроб, тип компьютерного вируса
+bankcard fraud - мошенничество с банковскими картами
+banker trojan - банковский троян
+behaviour - поведение, в ИБ действия и операции, которые выполняет вредоносная программа в зараженной системе
+behavioural anomaly detection - технологии обнаружения зловредного ПО
+behaviour blocker - поведенческий блокиратор
+benign environment - благоприятная среда
+biometric data - биометрические данные
+biometric identification - биометрическая идентификация
+black hat hacker - зловредный (черный) хакер
+blacklist - черный список
+blacklisting - технология "черных списков"
+blackmail - шантаж
+botnet - сеть зомбированных компьютеров
+bug bounty - премия за обнаружения уязвимости
+cyber attack - кибератака
+cyber attacker - кибервзломщик
+cyber conflict - киберконфликт
+cybercrime - киберпреступность, киберпреступления
+cybercriminal - киберпреступник
+cyberdefense - кибероборона
+cyber incident - киберинцидент
+cyberlaw - киберправо
+cyber operation - кибероперация
+cyder protection - киберзащита
+cyder resilience - устойчивасть к киберугрозам
+cyber risk - киберугроза, кибер риск
+cybersecurity - безопасность в киберпространстве
+cyder secutrity expert - эксперт по кибербезопасности
+cybersecurity adviser - советник по кибербезопасности
+cybersecurity analyst - аналитик по кибербезопасности
+cybersecurity application - приложение для кибербезопасности
+cybersecurity business - бизнес в области кибербезопасности
+cybersecurity certificate - сертификат специалиста по кибербезопасности
+cybersecurity employer - работадатель для специалиста по кибербезопасности
+cybersecurity hardening - повышение уровня ИБ
+cybersecurity hardening guide - руководство по повышению кибербезопасности
+cybersecurity incident - нарушение кибербезопасности
+cybersecurity market - рынок средств кибербезопасности
+cybersecurity report - сообщение о нарушении кибербезопасности
+cybersecurity researcher - исследователь в области кибербезопасности
+cybersecurity solution - решение в области кибербезопасности
+cybersecurity spending - расходы на кибербезопасность
+cybersecurity strategy - стратегия обеспечения кибербезопасности
+cybersecurity technology - технология кибербезопасности
+data breach - несанкционированный доступ к данным
+data leakage - утечка данных
+data privacy - конфиденциальность (приватность) данных
+data security - защита (защищенность, безопасность) данных
+defence in depth - многоуровневая защита
+destruction - уничтожение, разрушение
+disclose information - разглашать информацию
+disclosure - демаскирование, раскрытие, разглашение
+demilitarized zone (DMZ) - демилитаризованная зона
+downgrade (downgrading) - понижение уровня, так же понижение в звании, статусе, оценки
+Data Protection as a Service (DPaaS) - защита данных как услуга, сервис, модель обеспечения сохранности данных
+eavesdropping - перехват, прослушка, прослушивание
+eavesdropping attack - атака прослушиванием
+encrypted software - ПО с криптографической защитой
+enterprise security - корпоративная безопасность
+entrapment - подставка, ловушка
+evidence - доказательство, вещественное доказательство, также служить доказательством, доказать
+exculpatory evidence - доказательство невиновности
+external security testing - внешнее тестирование средств обеспечения средств безопасности
+false negative (FN) - ошибочный отказ, ложно отрицательная (аутентификация)
+false positive (FP) - ошибочный допуск, ложно положительная (аутентификация)
+file protection - защита файла
+file sandboxing - проверка файла в песочнице 
+file security - безопасность файлов
+Forum for Incident and Response Security Team (FIRST) - форум команд по ИБ и реакциям на инциденты ИБ
+foothold expansion - упрощение позиции атакующего (расширение плацдарма)
+fraud - обман, мошенничество
+guard code - защитный код 
+hacker attack - хакерская атака
+hacker group - хакерская группа
+hacker-powered security - обеспечение ИБ белыми хакерами
+hacking threat - хакерская угроза
+hacking - взлом, неавторизованный доступ
+hacking community - сообщество хакеров
+hacking spike - всплеск хакерской активности
+hacking techniques - методы хакинга (техники)
+hacking tool - инструмент для хакинга
+hardware security - аппаратная защита, защита "по железу". Защита обеспеченная какими-либо физическими инструментами
+hardware vulnerability - аппаратная уязвимость, уязвимость аппаратного обеспечения
+hardware weakness - аппаратная уязвимость (сисноним прошлого), "слабость" аппаратуры
+high impact (HI HIM HIMP) - сильное воздействие, сильный эффект, высокая уязвимость, большой ущерб
+high-impact system - система высокой уязвимости
+high-tech crime - высокотехнологическое преступление
+honeynet - сеть-приманка, сеть-ловушка
+honeypot - хост-приманка, хост-ловушка
+human factor (HE) - человеческий фактор , самое слобае звено в ИТ и ИБ
+hybrid security control - гибридный контроль безопасности
+identity, credential, and access management (ICAM) - системиа идентификации, электронных удоставерений и контроля доступа
+identity theft - хищение личных данных, кража личности
+impact - воздействие, влияние
+impact value - величина потенциального или реального ущерба
+impersonation - маскирофка нарушителя, маскровка вредоносного ПО под не вредоносное
+inadvertent disclosure - непреднамеренное раскрытие информации
+incident - инцидент, проеществие
+incident diary - дневник, журнал учета проеществий (инцидентов)
+incident handling - обработка происшествий
+incident management - контроль происшествий
+incident outsourcing - аутсорсинг инцидентов 
+incident prevention - предупреждение инцидентов
+incident reporting - отчет по инцидентов
+incident response - реакция на инцидент 
+incident response plan - план реагирования на инциденты
+incident scope - масштаб инцидента
+incident solving - решение инцидента
+intruder – взламыватель / неавторизованный пользователь пытающийся получить несанкционированный доступ 
+intruder detection – обнаружение нарушителей
+intrusion – вторжение / несанкционированное проникновение в систему в обход её защитных механизмов
+intrusion attempt – попытка проникновения в систему/сеть
+intrusion detection – обнаружение проникновения (вторжения)
+intrusion prevention – предотвращение вторжений
+intrusion prevention system (IPS) – система предотвращения вторжений
+intrusion sensor – датчик охранной сигнализации
+intrusion testing – тестирование системы на вторжение
+intrusion tool – средство вторжения, инструмент для проникновения
+IOC – indicator of compromise – признак компрометации, признак вторжения в систему
+IT-related risk –  ИТ-риск
+IT security architecture – архитектура обеспечения безопасности ИТ-систем
+IT security awareness – информирование по проблемам ИТ-безопасности
+IT security threat[s] – угроза (угрозы) безопасности ИТ-систем
+IT security training – обучение по ИТ-безопасности
+key management – управление криптографическими ключами
+labeled security protection – защита по меткам безопасности
+laboratory attack – лабораторная атака
+layered defense – эшелонированная оборона
+leakage – утечка данных, информации
+leakage channel – канал утечки данных
+least privilege (также least privilege principle, principle of least privilege, PoLP) – принцип минимума прав доступа
+logical perimeter – логический периметр 
+loss of data (также data loss) – потеря данных
+low-impact system – система невысокой  уязвимости
+malicious – злонамеренный
+malicious act – злоумышленное (вредоносное) действие 
+malicious applets – вредоносные аплеты # небольшие прикладные программы, которые автоматически скачиваются из Сети и запускаются
+malicious attack – злонамеренная атака, вредоносная атака 
+malicious behavior – злоумышленное (вредоносное) поведение # один из признаков вредоносного ПО 
+malicious circuit – вредоносная микросхема 
+malicious code (malcode) – вредоносный код, вредоносная программа 
+malicious email – вредоносное электронное письмо, заражённое письмо 
+malicious item – вредоносный объект (элемент, файл, пакет, вирус, сообщение) 
+malicious logic – вредоносная логика # аппаратные или программные средства, которые скрытно и намеренно включены в систему с вредоносными целями 
+malicious tools – вредоносные утилиты, вредоносные инструментальные программы 
+malicious website – вредоносный вебсайт
+malicious advertising – вредоносная реклама 
+malware –  вредоносные (злонамеренные) программы
+malware attack – атака [с использованием, с помощью] вредоносного ПО 
+malware detection – обнаружение (выявление) вредоносного ПО 
+malware-fighting engine (также malware engine) – движок борьбы с вредоносными программами (зловредами) 
+malicious file – файл с вредоносным ПО, заражённый файл 
+malware forms of spyware – вредоносные виды шпионского (шпионящего) ПО 
+malware inspection – проверка на наличие вредоносного ПО
+malware protection – защита от вредоносного ПО 
+malware research – исследование вредоносного ПО 
+malware scanning engine – механизм сканирования (поиска, обнаружения) вредоносного ПО
+malware stealing (также malware cryptocurrency stealing) – кража секретных ключей от криптокошельков с целью последующей кражи самой криптовалюты из этих кошельков 
+man-in-the-middle attack (MITM, man in the middle attack, MITM attack) – атака злоумышленника в роли посредника,# в криптографии и ИБ – разновидность активного перехвата сообщений 
+manipulative communications deception (MCD) – манипуляционная дезинформация при коммуникациях # в ИБ – изменение передаваемых сообщений или симуляция дружественных телекоммуникаций с целью дезинформации, дезориентации противника. 
+moderate-impact system – система умеренной уязвимости # в ИБ – компьютерная система, для которой как минимум один из базовых целевых показателей безопасности (конфиденциальность, целостность или готовность) имеет умеренную потенциальную возможность (умеренный риск) нарушения, но ни один из них не имеет высокого риска нарушения
